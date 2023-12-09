@@ -1,0 +1,15 @@
+C:\Users\w67163\source\repos\Lab_02\Lab_02\bin\Debug\net7.0\Lab_02.exe
+C:\Users\w67163\source\repos\Lab_02\Lab_02\bin\Debug\net7.0\Lab_02.deps.json
+C:\Users\w67163\source\repos\Lab_02\Lab_02\bin\Debug\net7.0\Lab_02.runtimeconfig.json
+C:\Users\w67163\source\repos\Lab_02\Lab_02\bin\Debug\net7.0\Lab_02.dll
+C:\Users\w67163\source\repos\Lab_02\Lab_02\bin\Debug\net7.0\Lab_02.pdb
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\Lab_02.csproj.AssemblyReference.cache
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\Lab_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\Lab_02.AssemblyInfoInputs.cache
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\Lab_02.AssemblyInfo.cs
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\Lab_02.csproj.CoreCompileInputs.cache
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\Lab_02.dll
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\refint\Lab_02.dll
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\Lab_02.pdb
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\Lab_02.genruntimeconfig.cache
+C:\Users\w67163\source\repos\Lab_02\Lab_02\obj\Debug\net7.0\ref\Lab_02.dll

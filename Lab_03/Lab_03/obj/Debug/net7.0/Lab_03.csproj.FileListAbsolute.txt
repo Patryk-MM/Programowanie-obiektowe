@@ -1,0 +1,30 @@
+C:\Users\w67163\source\repos\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.exe
+C:\Users\w67163\source\repos\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.deps.json
+C:\Users\w67163\source\repos\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.runtimeconfig.json
+C:\Users\w67163\source\repos\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.dll
+C:\Users\w67163\source\repos\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.pdb
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.csproj.AssemblyReference.cache
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.AssemblyInfoInputs.cache
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.AssemblyInfo.cs
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.csproj.CoreCompileInputs.cache
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.dll
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\refint\Lab_03.dll
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.pdb
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.genruntimeconfig.cache
+C:\Users\w67163\source\repos\Lab_03\Lab_03\obj\Debug\net7.0\ref\Lab_03.dll
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.csproj.AssemblyReference.cache
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.GeneratedMSBuildEditorConfig.editorconfig
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.AssemblyInfoInputs.cache
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.AssemblyInfo.cs
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.csproj.CoreCompileInputs.cache
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.dll
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\refint\Lab_03.dll
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.pdb
+F:\programowanie obiektowe\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.exe
+F:\programowanie obiektowe\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.deps.json
+F:\programowanie obiektowe\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.runtimeconfig.json
+F:\programowanie obiektowe\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.dll
+F:\programowanie obiektowe\Lab_03\Lab_03\bin\Debug\net7.0\Lab_03.pdb
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\Lab_03.genruntimeconfig.cache
+F:\programowanie obiektowe\Lab_03\Lab_03\obj\Debug\net7.0\ref\Lab_03.dll

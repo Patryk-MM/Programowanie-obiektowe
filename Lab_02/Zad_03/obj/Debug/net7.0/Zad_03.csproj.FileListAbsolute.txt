@@ -1,0 +1,14 @@
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\bin\Debug\net7.0\Zad_03.exe
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\bin\Debug\net7.0\Zad_03.deps.json
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\bin\Debug\net7.0\Zad_03.runtimeconfig.json
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\bin\Debug\net7.0\Zad_03.dll
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\bin\Debug\net7.0\Zad_03.pdb
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\Zad_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\Zad_03.AssemblyInfoInputs.cache
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\Zad_03.AssemblyInfo.cs
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\Zad_03.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\Zad_03.dll
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\refint\Zad_03.dll
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\Zad_03.pdb
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\Zad_03.genruntimeconfig.cache
+C:\Users\Patryk\Documents\Programowanie projekty\C#\Lab_02\Zad_03\obj\Debug\net7.0\ref\Zad_03.dll
